@@ -1,7 +1,27 @@
 $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 
 (function() {
-var imagesArray = ["http://i.imgur.com/Y1bdHwK.jpg", "http://i.imgur.com/XOR9wzD.jpg", "http://i.imgur.com/ZX7DsJ9.jpg", "http://i.imgur.com/oRzyZmq.jpg", "http://i.imgur.com/G0oes6K.jpg", "http://i.imgur.com/oPqgjP5.jpg", "http://i.imgur.com/ItUVDJC.jpg", "http://i.imgur.com/7feRaUH.jpg", "http://i.imgur.com/kDxdZpK.jpg", "http://i.imgur.com/CCZyDig.jpg","http://i.imgur.com/vJbMcSc.jpg","http://i.imgur.com/xzsE94H.jpg","http://i.imgur.com/09LHk5s.jpg","http://i.imgur.com/kDxdZpK.jpg","http://i.imgur.com/33RcZZT.jpg","http://i.imgur.com/qfhCgAy.jpg","http://i.imgur.com/KtazIFm.jpg","http://i.imgur.com/30jX59V.jpg","http://i.imgur.com/RjPN7xp.jpg"];
+var imagesArray = [
+"https://s27.postimg.org/h80xeajvn/code1.png", 
+"https://s28.postimg.org/phumhc3tp/code2.png", 
+"https://s28.postimg.org/h58n4886l/code3.png", 
+"https://s28.postimg.org/vigp5k1vx/code4.png", 
+"https://s27.postimg.org/ltfn06dsz/code5.png", 
+"https://s27.postimg.org/wo3yyjhqb/code6.png", 
+"https://s27.postimg.org/5uvy0hb8j/code7.png", 
+"https://s28.postimg.org/u3wy57ynh/code8.png", 
+"http://i.imgur.com/XOR9wzD.jpg", 
+"http://i.imgur.com/oPqgjP5.jpg", 
+"http://i.imgur.com/kDxdZpK.jpg", 
+"http://i.imgur.com/vJbMcSc.jpg", 
+"http://i.imgur.com/xzsE94H.jpg", 
+"http://i.imgur.com/09LHk5s.jpg", 
+"http://i.imgur.com/kDxdZpK.jpg", 
+"http://i.imgur.com/33RcZZT.jpg", 
+"http://i.imgur.com/qfhCgAy.jpg", 
+"http://i.imgur.com/KtazIFm.jpg", 
+"http://i.imgur.com/30jX59V.jpg", 
+"http://i.imgur.com/RjPN7xp.jpg"];
   
 var num = Math.floor(Math.random() * (imagesArray.length+1));
   
