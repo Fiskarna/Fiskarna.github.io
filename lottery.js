@@ -27,7 +27,7 @@ var num = Math.floor(Math.random() * (imagesArray.length+1));
   
 var image = { // back and front images
   'back': { 'url': imagesArray[num], 'img':null },
-	'front': { 'url':'http://s3.postimg.org/xmvpcybur/scratchoff.png', 'img':null }
+	'front': { 'url':'https://s28.postimg.org/pz6m9wnzx/lotto_edited-1.png', 'img':null }
 };
 
 var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
@@ -155,8 +155,8 @@ function setupCanvases() {
 	var c = document.getElementById('maincanvas');
 	// set the width and height of the main canvas from the first image
 	// (assuming both images are the same dimensions)
-	c.width = image.back.img.width;
-	c.height = image.back.img.height;
+	c.width = 678;
+	c.height = 640;
 
 	// create the temp and draw canvases, and set their dimensions
 	// to the same as the main canvas:
