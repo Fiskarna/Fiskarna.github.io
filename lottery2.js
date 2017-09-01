@@ -60,7 +60,7 @@ var num = Math.floor(Math.random() * (imagesArray.length+1));
   
 var image = { // back and front images
   'back': { 'url': imagesArray[num], 'img':null },
-	'front': { 'url':'https://s28.postimg.org/pz6m9wnzx/lotto_edited-1.png', 'img':null }
+	'front': { 'url':'https://s26.postimg.org/pxb5srxax/scratchhhh.png', 'img':null }
 };
 
 var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
