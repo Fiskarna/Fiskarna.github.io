@@ -2,59 +2,15 @@ $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 
 (function() {
 var imagesArray = [
-"https://i.imgur.com/KZNaGiF.png", 
-
-"https://i.imgur.com/Pp6nGjn.png", 
-"https://i.imgur.com/Pp6nGjn.png", 
-
-"https://i.imgur.com/Pyfv8q7.png", 
-"https://i.imgur.com/Pyfv8q7.png", 
-"https://i.imgur.com/Pyfv8q7.png", 
-
-"https://i.imgur.com/ebbbPq2.png", 
-"https://i.imgur.com/ebbbPq2.png", 
-
-"https://i.imgur.com/6Z2knEn.png", 
-"https://i.imgur.com/6Z2knEn.png", 
-"https://i.imgur.com/6Z2knEn.png", 
-
-"https://i.imgur.com/5fh3UYo.png", 
-"https://i.imgur.com/5fh3UYo.png", 
-"https://i.imgur.com/5fh3UYo.png", 
-"https://i.imgur.com/5fh3UYo.png", 
-
-"https://i.imgur.com/aKhdgqW.png", 
-"https://i.imgur.com/aKhdgqW.png", 
-"https://i.imgur.com/aKhdgqW.png", 
-"https://i.imgur.com/pC3YfCH.png", 
-"https://i.imgur.com/pC3YfCH.png", 
-"https://i.imgur.com/pC3YfCH.png", 
-
-
-"https://i.imgur.com/XOR9wzD.jpg", 
-"https://i.imgur.com/oPqgjP5.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/vJbMcSc.jpg", 
-"https://i.imgur.com/xzsE94H.jpg", 
-"https://i.imgur.com/09LHk5s.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/33RcZZT.jpg", 
-"https://i.imgur.com/qfhCgAy.jpg", 
-"https://i.imgur.com/KtazIFm.jpg", 
-"https://i.imgur.com/30jX59V.jpg", 
-"https://i.imgur.com/XOR9wzD.jpg", 
-"https://i.imgur.com/oPqgjP5.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/vJbMcSc.jpg", 
-"https://i.imgur.com/xzsE94H.jpg", 
-"https://i.imgur.com/09LHk5s.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/33RcZZT.jpg", 
-"https://i.imgur.com/qfhCgAy.jpg", 
-"https://i.imgur.com/KtazIFm.jpg", 
-"https://i.imgur.com/30jX59V.jpg", 
-"https://i.imgur.com/RjPN7xp.jpg",
-"https://i.imgur.com/RjPN7xp.jpg"];
+"https://s26.postimg.org/605f5ysex/code.png", 
+"https://s26.postimg.org/pjelt2gk9/code2.png", 
+"https://s26.postimg.org/87e97mn2x/code3.png", 
+"https://s26.postimg.org/8zgx6tra1/code4.png", 
+"https://s26.postimg.org/n76lvh3yx/code5.png", 
+"https://s26.postimg.org/7zqmb4c49/code6.png", 
+"https://s26.postimg.org/9g24t9f15/code7.png", 
+"https://s26.postimg.org/fi9rjr3h5/code8.png", 
+];
   
 var num = Math.floor(Math.random() * (imagesArray.length+1));
   
