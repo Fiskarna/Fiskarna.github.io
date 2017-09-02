@@ -10,7 +10,30 @@ var imagesArray = [
 "https://s26.postimg.org/7zqmb4c49/code6.png", 
 "https://s26.postimg.org/9g24t9f15/code7.png", 
 "https://s26.postimg.org/fi9rjr3h5/code8.png", 
-];
+"https://i.imgur.com/XOR9wzD.jpg", 
+"https://i.imgur.com/oPqgjP5.jpg", 
+"https://i.imgur.com/kDxdZpK.jpg", 
+"https://i.imgur.com/vJbMcSc.jpg", 
+"https://i.imgur.com/xzsE94H.jpg", 
+"https://i.imgur.com/09LHk5s.jpg", 
+"https://i.imgur.com/kDxdZpK.jpg", 
+"https://i.imgur.com/33RcZZT.jpg", 
+"https://i.imgur.com/qfhCgAy.jpg", 
+"https://i.imgur.com/KtazIFm.jpg", 
+"https://i.imgur.com/30jX59V.jpg", 
+"https://i.imgur.com/XOR9wzD.jpg", 
+"https://i.imgur.com/oPqgjP5.jpg", 
+"https://i.imgur.com/kDxdZpK.jpg", 
+"https://i.imgur.com/vJbMcSc.jpg", 
+"https://i.imgur.com/xzsE94H.jpg", 
+"https://i.imgur.com/09LHk5s.jpg", 
+"https://i.imgur.com/kDxdZpK.jpg", 
+"https://i.imgur.com/33RcZZT.jpg", 
+"https://i.imgur.com/qfhCgAy.jpg", 
+"https://i.imgur.com/KtazIFm.jpg", 
+"https://i.imgur.com/30jX59V.jpg", 
+"https://i.imgur.com/RjPN7xp.jpg",
+"https://i.imgur.com/RjPN7xp.jpg"];
   
 var num = Math.floor(Math.random() * (imagesArray.length+1));
   
