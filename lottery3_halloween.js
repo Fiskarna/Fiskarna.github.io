@@ -2,44 +2,22 @@ $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 
 (function() {
 var imagesArray = [
-"https://s26.postimg.org/605f5ysex/code.png", 
-"https://s26.postimg.org/pjelt2gk9/code2.png", 
-"https://s26.postimg.org/87e97mn2x/code3.png", 
-"https://s26.postimg.org/8zgx6tra1/code4.png", 
-"https://s26.postimg.org/n76lvh3yx/code5.png", 
-"https://s26.postimg.org/7zqmb4c49/code6.png", 
-"https://s26.postimg.org/9g24t9f15/code7.png", 
-"https://s26.postimg.org/fi9rjr3h5/code8.png", 
-"https://i.imgur.com/XOR9wzD.jpg", 
-"https://i.imgur.com/oPqgjP5.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/vJbMcSc.jpg", 
-"https://i.imgur.com/xzsE94H.jpg", 
-"https://i.imgur.com/09LHk5s.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/33RcZZT.jpg", 
-"https://i.imgur.com/qfhCgAy.jpg", 
-"https://i.imgur.com/KtazIFm.jpg", 
-"https://i.imgur.com/30jX59V.jpg", 
-"https://i.imgur.com/XOR9wzD.jpg", 
-"https://i.imgur.com/oPqgjP5.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/vJbMcSc.jpg", 
-"https://i.imgur.com/xzsE94H.jpg", 
-"https://i.imgur.com/09LHk5s.jpg", 
-"https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/33RcZZT.jpg", 
-"https://i.imgur.com/qfhCgAy.jpg", 
-"https://i.imgur.com/KtazIFm.jpg", 
-"https://i.imgur.com/30jX59V.jpg", 
-"https://i.imgur.com/RjPN7xp.jpg",
-"https://i.imgur.com/RjPN7xp.jpg"];
+"https://s1.postimg.org/3x0brgqudb/code1.png", 
+"https://s1.postimg.org/34ng9qkqq7/code2.png", 
+"https://s1.postimg.org/47zwysi5en/code3.png", 
+"https://s1.postimg.org/9g7yzy7d9b/code4.png", 
+"https://s1.postimg.org/8nv3i7x70f/code5.png", 
+"https://s1.postimg.org/1o6u0bwmjz/code6.png", 
+"https://s1.postimg.org/29uiylyhov/code7.png", 
+"https://s1.postimg.org/95z6isp9vj/code8.png", 
+"https://s1.postimg.org/6m63kbj6a7/code9.png", 
+"https://s1.postimg.org/7p5sv7paj3/code10.png"];
   
 var num = Math.floor(Math.random() * (imagesArray.length+1));
   
 var image = { // back and front images
   'back': { 'url': imagesArray[num], 'img':null },
-	'front': { 'url':'https://s26.postimg.org/pxb5srxax/scratchhhh.png', 'img':null }
+	'front': { 'url':'https://i.imgur.com/KZWQD2e.png', 'img':null }
 };
 
 var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
