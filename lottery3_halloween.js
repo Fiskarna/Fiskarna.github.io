@@ -16,7 +16,7 @@ var imagesArray = [
 "https://i.imgur.com/30jX59V.jpg", 
 "https://i.imgur.com/33RcZZT.jpg", 
 "https://i.imgur.com/kDxdZpK.jpg", 
-"https://i.imgur.com/KtazIFm.jpg", 
+"https://i.imgur.com/rxzpamJ.png", 
 "https://i.imgur.com/oPqgjP5.jpg", 
 "https://i.imgur.com/qfhCgAy.jpg", 
 "https://i.imgur.com/RjPN7xp.jpg",
