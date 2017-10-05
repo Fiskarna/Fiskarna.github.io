@@ -4,6 +4,7 @@ $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 var imagesArray = [
 "https://s1.postimg.org/3x0brgqudb/code1.png", 
 "https://s1.postimg.org/34ng9qkqq7/code2.png", 
+"https://s1.postimg.org/34ng9qkqq7/code2.png", 
 "https://s1.postimg.org/47zwysi5en/code3.png", 
 "https://s1.postimg.org/9g7yzy7d9b/code4.png", 
 "https://s1.postimg.org/8nv3i7x70f/code5.png", 
