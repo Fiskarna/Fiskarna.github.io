@@ -1,12 +1,13 @@
 $( "#hidd" ).hide(); //hide amount of correctness
 
-
-$( ".an" ).on( "click", function() {
-    if ( $( "#butt" ).hasClass( 'actev' ) ) {
-        $( this ).parent().children().removeClass( "solocted" );
-        $( this ).addClass( "solocted" );
-    }
-} );
+function answerpress() {
+    $( this ).on( "click", function() {
+        if ( $( "#butt" ).hasClass( 'actev' ) ) {
+            $( this ).parent().children().removeClass( "solocted" );
+            $( this ).addClass( "solocted" );
+        }
+    } );
+};
 
 function buttonpress() {
     $( this ).on( "click", function() {
