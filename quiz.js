@@ -1,4 +1,5 @@
-<script type="text/javascript">
+console.log("1!");
+
 $( document ).ready( function() {
     setTimeout( function() {
 
@@ -34,7 +35,6 @@ $( document ).ready( function() {
         } );
 
         $( 'head' ).append( '<style>.solocted {border: 2px solid black;} .an {cursor: pointer; padding: 1px 10px;} .an:hover {background: #e0daca;} .qu {padding: 1px; font-weight: bold;}</style>' );
-console.log("now!");
+console.log("2!");
     }, 6000 );
 } );
-</script>
