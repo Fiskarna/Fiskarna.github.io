@@ -2,17 +2,6 @@ $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 
 (function() {
 var imagesArray = [
-"https://s1.postimg.org/3x0brgqudb/code1.png", 
-"https://s1.postimg.org/34ng9qkqq7/code2.png", 
-"https://s1.postimg.org/34ng9qkqq7/code2.png", 
-"https://s1.postimg.org/47zwysi5en/code3.png", 
-"https://s1.postimg.org/9g7yzy7d9b/code4.png", 
-"https://s1.postimg.org/8nv3i7x70f/code5.png", 
-"https://s1.postimg.org/1o6u0bwmjz/code6.png", 
-"https://s1.postimg.org/29uiylyhov/code7.png", 
-"https://s1.postimg.org/95z6isp9vj/code8.png", 
-"https://s1.postimg.org/6m63kbj6a7/code9.png", 
-"https://s1.postimg.org/7p5sv7paj3/code10.png",
 "https://i.imgur.com/qDB5sBN.png",
 "https://i.imgur.com/ZgOmijZ.png", 
 "https://i.imgur.com/d4QqVJF.png", 
