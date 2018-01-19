@@ -15,7 +15,8 @@ var imagesArray = [
 "https://i.imgur.com/IwEvJ4q.png", 
 "https://i.imgur.com/oowHnsj.png", 
 "https://i.imgur.com/GNWqSN6.png"];
-  
+
+
 var num = Math.floor(Math.random() * (imagesArray.length+1));
   
 var image = { // back and front images
