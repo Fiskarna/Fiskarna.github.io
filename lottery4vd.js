@@ -2,7 +2,9 @@ $('#main').append('<div><canvas id="maincanvas"></canvas></div>');
 
 (function() {
 var imagesArray = [
-"https://i.imgur.com/qDB5sBN.png",
+"https://i.imgur.com/XaY4rMc.png", //200c fem
+"https://i.imgur.com/zf8ALNl.png", //250c fem
+"https://i.imgur.com/5bxJgWv.png", //175c fem
 "https://i.imgur.com/ZgOmijZ.png", 
 "https://i.imgur.com/d4QqVJF.png", 
 "https://i.imgur.com/3ulU7C9.png", 
