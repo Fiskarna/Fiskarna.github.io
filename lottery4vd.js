@@ -8,6 +8,12 @@ var imagesArray = [
 "https://i.imgur.com/2gLZFLz.png", //66c male 1 
 "https://i.imgur.com/IgOR2uN.png", //66c male 2
 "https://i.imgur.com/2F3VAxJ.png", //400c unisex
+"https://i.imgur.com/XaY4rMc.png", //200c fem
+"https://i.imgur.com/zf8ALNl.png", //250c fem
+"https://i.imgur.com/5bxJgWv.png", //175c fem
+"https://i.imgur.com/2gLZFLz.png", //66c male 1 
+"https://i.imgur.com/IgOR2uN.png", //66c male 2
+"https://i.imgur.com/2F3VAxJ.png", //400c unisex
 "https://i.imgur.com/zLy6v2h.png", 
 "https://i.imgur.com/pZ7Fi5v.png", 
 "https://i.imgur.com/gcsmsgU.png", 
