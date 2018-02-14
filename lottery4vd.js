@@ -25,7 +25,7 @@ var num = Math.floor(Math.random() * (imagesArray.length+1));
   
 var image = { // back and front images
   'back': { 'url': imagesArray[num], 'img':null },
-	'front': { 'url':'https://i.imgur.com/X8VBB8F.png', 'img':null }
+	'front': { 'url':'https://i.imgur.com/TYltBsI.png', 'img':null }
 };
 
 var canvas = {'temp':null, 'draw':null}; // temp and draw canvases
