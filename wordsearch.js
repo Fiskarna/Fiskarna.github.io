@@ -1328,7 +1328,7 @@ var GameWidgetHelper = {
 
 
 $(document).ready( function () {
-    var words = "cold,gas,radiator,heating,boiler,frozen,energy,power,scarf,home,insulation,warmth";
+    var words = "great,smart,kind,ambitious,creative,considerate,generous,resourceful,witty,passionate";
         //attach the game to a div
         $("#theGrid").wordsearchwidget({
             "wordlist" : words,
