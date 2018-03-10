@@ -713,7 +713,6 @@ var PACMAN = (function () {
 
     function drawScore(text, position) {
         ctx.fillStyle = "#FFFFFF";
-        ctx.font      = "12px BDCartoonShoutRegular";
         ctx.fillText(text, 
                      (position["new"]["x"] / 10) * map.blockSize, 
                      ((position["new"]["y"] + 5) / 10) * map.blockSize);
@@ -721,7 +720,6 @@ var PACMAN = (function () {
     
     function dialog(text) {
         ctx.fillStyle = "#FFFF00";
-        ctx.font      = "14px BDCartoonShoutRegular";
         var width = ctx.measureText(text).width,
             x     = ((map.width * map.blockSize) - width) / 2;        
         ctx.fillText(text, x, (map.height * 10) + 8);
@@ -809,12 +807,10 @@ var PACMAN = (function () {
         }
 
         ctx.fillStyle = !soundDisabled() ? "#00FF00" : "#FF0000";
-        ctx.font = "bold 16px sans-serif";
         //ctx.fillText("♪", 10, textBase);
         ctx.fillText("s", 10, textBase);
 
         ctx.fillStyle = "#FFFF00";
-        ctx.font      = "14px BDCartoonShoutRegular";
         ctx.fillText("Score: " + user.theScore(), 30, textBase);
         ctx.fillText("Level: " + level, 260, textBase);
     }
